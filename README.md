@@ -1,2 +1,1 @@
-# anime-challenge
-Find trends of different animes using two datasets from Kaggle
+Kaggle source: https://www.kaggle.com/alancmathew/anime-dataset?select=anime.csv
